@@ -1,0 +1,23 @@
+{
+  "name": "nw-express-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/kitak/nw-express-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitak/nw-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kitak/nw-express-boilerplate",
+  "dependencies": {
+    "express": "^4.12.3",
+    "nw": "^0.12.0"
+  }
+}
